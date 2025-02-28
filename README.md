@@ -34,8 +34,6 @@ To further identify novel genetic risk factors involved in sepsis-associated ARD
 <p align="center">
   <img src="https://github.com/genomicsITER/HGinfections/blob/main/images/Figure1_metaGWAS_workflow.jpg" width="auto"/>
 </p>
-<p><br></p>
-<!-- ![What is this](Figure1_metaGWAS_workflow.jpg) -->
 <p align="center"><b>Figure 1</b>: Flowchart of 3-way meta-GWAS sepsis-associated ARDS.</p>
 
 ## Access to the results of this study
@@ -84,8 +82,6 @@ Based on the importance of the VEGF signaling axis in sepsis-associated ARDS, we
 <p align="center">
   <img src="https://github.com/genomicsITER/HGinfections/blob/main/images/Figure2_GWAS-VEGFR1_workflow.jpg" width="auto"/>
 </p>
-<p><br></p>
-<!-- ![What is this](Figure2_GWAS-VEGFR1_workflow.jpg) -->
 <p align="center"><b>Figure 2</b>: Flowchart of the GWAS of soluble VEGFR1 levels in sepsis patients.</p>
 
 ## Access to the results of this study
@@ -132,8 +128,6 @@ Community acquired pneumonia (CAP) is a major public health problem due to its h
 <p align="center">
   <img src="https://github.com/genomicsITER/HGinfections/blob/main/images/Figure3_GWAS-CAP_workflow.jpg" width="auto"/>
 </p>
-<p><br></p>
-<!-- ![What is this](Figure3_GWAS-CAP_workflow.jpg) -->
 <p align="center"><b>Figure 3</b>: Flowchart of the GWAS of community-acquired pneumonia.</p>
 
 ## Access to the results of this study
@@ -180,8 +174,6 @@ So far, sequencing-based studies to assess the role of rare variants in the popu
 <p align="center">
   <img src="https://github.com/genomicsITER/HGinfections/blob/main/images/Figure4_Flowchart-exomes-GEN-SEP.jpg" width="auto"/>
 </p>
-<p><br></p>
-<!-- ![What is this](Figure4_Flowchart-exomes-GEN-SEP.jpg) -->
 <p align="center"><b>Figure 4</b>: Flowchart of the whole-exome study in sepsis-associated ARDS.</p>
 
 ## Access to the results of this study
