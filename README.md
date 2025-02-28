@@ -199,7 +199,7 @@ Requesters should contact GWASARDS.adm [at] gmail [dot] com to request access to
 Please, be aware that **delays in obtaining a response** with the instructions for downloading are expected during particular periods of the year.
 
 ## Which information should I submit to access the variant summary data?
-Requesters should provide a signed document including the following information: <b>full name and title of the PI, affiliation, and a brief description of the project and the aims where the data is to be used<b>.
+Requesters should provide a signed document including the following information: <b>full name and title of the PI, affiliation, and a brief description of the project and the aims where the data is to be used</b>.
 
 The document should explicitly state that the data requester also agrees to:
 <ul>
