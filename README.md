@@ -225,6 +225,9 @@ A template document for the request is [here](https://github.com/genomicsITER/HG
 Dr. Carlos Flores, Research Unit - Hospital Universitario N.S. de Candelaria -Instituto de Investigación Sanitaria de Canarias (IISC), Genomics Division - Instituto Tecnológico y de Energías Renovables (ITER), & CIBER de Enfermedades Respiratorias (CIBERES), Instituto de Salud Carlos III,  Spain.
 e-mail: GWASARDS.adm [at] gmail [dot] com
 
+<br>
+<br>
+
 <!-- --------------------------------- SECTION -------------------------------- -->
 
 ## References
