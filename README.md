@@ -9,7 +9,6 @@ Host genetic factors have been increasingly recognized as affecting the severity
 One main complication of severe infections in the ICU is the acute respiratory distress syndrome (ARDS), a pulmonary inflammatory disease caused by an insult to the alveolar–capillary barrier that results in increased vascular permeability and subsequent formation of pulmonary edema. ARDS is a major cause of mortality in adult ICUs and has no specific treatment options.
 
 <br>
-<br>
 
 <!-- --------------------------------- SECTION -------------------------------- -->
 
@@ -22,7 +21,6 @@ One main complication of severe infections in the ICU is the acute respiratory d
   <li><a href="#study4">Rare variant risks in sepsis-associated ARDS</a></li>
  </ul>
 
-<br>
 <br>
 
 <!-- --------------------------------- SECTION -------------------------------- -->
