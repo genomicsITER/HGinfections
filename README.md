@@ -3,7 +3,7 @@
 <!-- Created: February 28, 2025 -->
 <!-- Last updated: February 28, 2025 -->
 
-# Collaborative studies of host genetics of infections and outcomes (HGinfections)
+# Collaborative studies of host genetics of infections and outcomes
 Host genetic factors have been increasingly recognized as affecting the severity of responses to infections. Such influence is clear in patients with inborn errors of immunity. To date, most genomic studies have been conducted in families or isolated cases while studies in population cohorts (besides those in COVID-19), leveraging the power of genome-wide association studies (GWAS), are scarce in the literature.
 
 One main complication of severe infections in the ICU is the acute respiratory distress syndrome (ARDS), a pulmonary inflammatory disease caused by an insult to the alveolar–capillary barrier that results in increased vascular permeability and subsequent formation of pulmonary edema. ARDS is a major cause of mortality in adult ICUs and has no specific treatment options.
