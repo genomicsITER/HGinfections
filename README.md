@@ -35,7 +35,7 @@ To further identify novel genetic risk factors involved in sepsis-associated ARD
 <p><br></p>
 <!-- ![What is this](Figure_susceptibility_GWASIPF.png) -->
 
-Figure 1: Flowchart of 3-way meta-GWAS sepsis-associated ARDS. 
+<p align="center"><b>Figure 1</b>: Flowchart of 3-way meta-GWAS sepsis-associated ARDS.</p>
 
 ## Access to the results of this study
 To help advance ARDS research and allow the wider research community to access to the most accurate effect sizes for genetic variants on a genome-wide scale, the variant summary data resulting from this 3-way meta-GWAS of susceptibility to sepsis-associated ARDS (3; <a href="https://doi.org/10.1101/2025.02.11.25322045">https://doi.org/10.1101/2025.02.11.25322045</a>) (approximately 600 MB) can be accessed after an internal assessment of formal requests received.
