@@ -177,7 +177,7 @@ So far, sequencing-based studies to assess the role of rare variants in the popu
 <p align="center"><b>Figure 4</b>: Flowchart of the whole-exome study in sepsis-associated ARDS.</p>
 
 ## Access to the results of this study
-All analysis results related to this study have been included in the manuscript (6; Tosco-Herrera et al. 2025). Variant calls from whole-exome sequencing have been deposited in EGA ([https://ega-archive.org/studies/EGAS50000001119](EGAS50000001119)).
+All analysis results related to this study have been included in the manuscript (6; Tosco-Herrera et al. 2025). Variant calls from whole-exome sequencing have been deposited in EGA ([EGAS50000001119](https://ega-archive.org/studies/EGAS50000001119)).
 
 ## What type of results would be made available?
 No individual level data will be made available.
