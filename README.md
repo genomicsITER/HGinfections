@@ -257,9 +257,9 @@ e-mail: GWASARDS.adm [at] gmail [dot] com
 <a name="Update logs"></a>
 ## Update logs
 
-> October 1, 2025. Updated references 4 and 6; updated EGA accession for the study 'Rare variant risks in sepsis-associated ARDS'.
+> [2] October 1, 2025. Updated references 4 and 6; updated EGA accession for the study 'Rare variant risks in sepsis-associated ARDS'.
  
-> February 28, 2025. Public release of this repository. 
+> [1] February 28, 2025. Public release of this repository. 
 
 <p align="right">
   <a href="#HGinfections" title="Up">
