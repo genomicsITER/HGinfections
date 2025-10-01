@@ -203,9 +203,9 @@ Requesters should provide a signed document including the following information:
 
 The document should explicitly state that the data requester also agrees to:
 <ul>
-  <li>>use the data only as part of that indicated research,</li>
+  <li>use the data only as part of that indicated research,</li>
   <li>not redistribute the data outside the project without permission, and</li>
-  <li>acknowledge the provenance of the data in any dissemination of results</li>.
+  <li>acknowledge the provenance of the data in any dissemination of results.</li>
 </ul>
 
 A template document for the request is [here](https://github.com/genomicsITER/HGinfections/blob/main/Request_template.txt)).
