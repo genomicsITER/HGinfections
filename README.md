@@ -235,13 +235,13 @@ e-mail: GWASARDS.adm [at] gmail [dot] com
 
 2: Hernández-Beeftink T, Guillen-Guio B, Villar J, Flores C. Genomics and the Acute Respiratory Distress Syndrome: Current and Future Directions. Int J Mol Sci. 2019, 20:4004. Doi: https://doi.org/10.3390/ijms20164004. PubMed PMID: 31426444.
 
-3: Guillen-Guio, B, Suarez-Pajes, E, Tosco-Herrera, E, Hernandez-Beeftink, T, Lorenzo-Salazar, J M, Chang, D, González-Montelongo, R, Rubio-Rodríguez, L A, Leavy, O C, Allen, R J, Corrales, A, Cruz, R, Bardají-Carrillo, M, Carracedo, A, Tamayo, E, Kerchberger, V E, Ware, L B, Yaspan, B L, Scholz, M, Scherag, A, Villar, J, Wain L V, Flores, C. Genome-wide association study of susceptibility to acute respiratory distress syndrome. MedRxiv 2025. [https://doi.org/10.1101/2025.02.11.25322045 ](https://doi.org/10.1101/2025.02.11.25322045 )
+3: Guillen-Guio, B, Suarez-Pajes, E, Tosco-Herrera, E, Hernandez-Beeftink, T, Lorenzo-Salazar, J M, Chang, D, González-Montelongo, R, Rubio-Rodríguez, L A, Leavy, O C, Allen, R J, Corrales, A, Cruz, R, Bardají-Carrillo, M, Carracedo, A, Tamayo, E, Kerchberger, V E, Ware, L B, Yaspan, B L, Scholz, M, Scherag, A, Villar, J, Wain L V, Flores, C. Genome-wide association study of susceptibility to acute respiratory distress syndrome. eBioMedicine 2025;120: 105951. Doi: [https://doi.org/10.1016/j.ebiom.2025.105951](https://doi.org/10.1016/j.ebiom.2025.105951)
 
 4: Suarez-Pajes, E, Shrine, N, Tosco-Herrera, E, Hernandez-Beeftink, T, Rubio-Rodríguez, L A, García-Laorden, M I, Corrales, A, Prieto-González, M, Rodríguez-Pérez, A, Carriedo, D, Blanco, J, Ambrós, A, González-Higueras, E, Espinosa, E, Muriel-Bombin, A, Domínguez, D, García de Lorenzo, A, Añon, J M, Soro, M, Villar, J, Tobin, M  D,  Wain, L V, Leavy, O C, Guillen-Guio, B, Flores, C. Genetic regulation of the vascular endothelial growth factor receptor 1 during sepsis and association with ARDS susceptibility. Medrxiv 2025. [https://doi.org/10.1101/2025.01.30.25321087](https://doi.org/10.1101/2025.01.30.25321087) 
 
-5: Suarez-Pajes, E, Marcelino-Rodriguez, I, Hernández Brito, E, Gonzalez-Barbuzano, S, Ramirez-Falcon, M, Tosco-Herrera, E, Rubio-Rodríguez, L A, Briones, M L, Rajas, O, Borderías, L, Ferreres, J, Payeras, A, Lorente, L, Aspa, J, Lorenzo Salazar, J M, Valencia-Gallardo, J M, Carbonell, N, Freixinet, J L, Rodríguez de Castro, F, … Rodríguez-Gallego, C,  Solé Violán, J, Flores, C, Rodríguez-Gallego, C. A genome-wide association study of adults with community-acquired pneumonia. Respiratory Research 2024. , 25(1), 374. doi: [https://doi.org/10.1186/s12931-024-03009-4](https://doi.org/10.1186/s12931-024-03009-4). PubMed PMID: 39415140
+5: Suarez-Pajes, E, Marcelino-Rodriguez, I, Hernández Brito, E, Gonzalez-Barbuzano, S, Ramirez-Falcon, M, Tosco-Herrera, E, Rubio-Rodríguez, L A, Briones, M L, Rajas, O, Borderías, L, Ferreres, J, Payeras, A, Lorente, L, Aspa, J, Lorenzo Salazar, J M, Valencia-Gallardo, J M, Carbonell, N, Freixinet, J L, Rodríguez de Castro, F, … Rodríguez-Gallego, C,  Solé Violán, J, Flores, C, Rodríguez-Gallego, C. A genome-wide association study of adults with community-acquired pneumonia. Respir Res 2024, 25(1), 374. doi: [https://doi.org/10.1186/s12931-024-03009-4](https://doi.org/10.1186/s12931-024-03009-4). PubMed PMID: 39415140
 
-6: Tosco-Herrera E, Rubio-Rodríguez LA, Muñoz-Barrera A, Jáspez D, Suárez-Pajes E, Corrales A, Alonso-González A, Prieto-González M, Rodríguez-Pérez A, Carriedo D, Blanco J, Ambrós A, Lorente L, Martín MM, Solé-Violán J, Rodríguez-Gallego C, González-Higueras E, Espinosa E, Muriel-Bombin A, Domínguez D, Soro M, Hernández-Beeftink T, Añón JM, Villar J, Guillén-Guio B, Marcelino-Rodríguez I, Lorenzo-Salazar JM, González-Montelongo R, Flores C. Rare genetic variant risks in patients with sepsis-associated acute respiratory distress syndrome. In preparation, 2025.
+6: Tosco-Herrera E, Rubio-Rodríguez LA, Muñoz-Barrera A, Jáspez D, Suárez-Pajes E, Corrales A, Alonso-González A, Prieto-González M, Rodríguez-Pérez A, Carriedo D, Blanco J, Ambrós A, Lorente L, Martín MM, Solé-Violán J, Rodríguez-Gallego C, González-Higueras E, Espinosa E, Muriel-Bombin A, Domínguez D, Soro M, Hernández-Beeftink T, Añón JM, Villar J, Guillén-Guio B, Marcelino-Rodríguez I, Lorenzo-Salazar JM, González-Montelongo R, Flores C. Rare genetic variant risks in patients with sepsis-associated acute respiratory distress syndrome. Medrxiv 2025. [https://doi.org/10.1101/2025.03.10.25323600](https://doi.org/10.1101/2025.03.10.25323600)
 
 <p align="right">
   <a href="#HGinfections" title="Up">
@@ -257,7 +257,9 @@ e-mail: GWASARDS.adm [at] gmail [dot] com
 <a name="Update logs"></a>
 ## Update logs
 
-> [1] February 28, 2025. Public release of this repository. 
+> October 1, 2025. Updated references 4 and 6.
+ 
+> February 28, 2025. Public release of this repository. 
 
 <p align="right">
   <a href="#HGinfections" title="Up">
